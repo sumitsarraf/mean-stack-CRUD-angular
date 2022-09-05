@@ -1,0 +1,17 @@
+.btn-space {
+    margin-right: 5px;
+}
+
+.footer{
+    position: relative;
+    top: 100px;
+}
+
+.copyright {
+    padding-top: 25px;
+    color:#fff;
+    border-top: 1px solid rgba(255,255,255,0.4);
+    text-align: center;
+}
+.copyright a{color:#01c7e9;transition: all 0.2s ease 0s;}
+.copyright a:hover{color:#ff3666;}
